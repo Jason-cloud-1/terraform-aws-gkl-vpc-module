@@ -2,8 +2,7 @@
 
 Terraform module which creates VPC resources on AWS.
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
+![Version-Badge](https://img.shields.io/badge/Tapestry_VPC_Module-v1.0.0-Green?style=for-the-badge&logo=terraform&logoColor=BLUE&logoWidth=25)   
 ## Usage
 
 ```hcl
